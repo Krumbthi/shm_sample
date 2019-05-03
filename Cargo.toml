@@ -1,0 +1,11 @@
+[package]
+name = "shm_test"
+version = "0.1.0"
+authors = ["Krumbthi <sourcedev@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+
+[dependencies.ipc]
+git = "https://github.com/alexcrichton/ipc-rs"
